@@ -23,7 +23,7 @@
     'version': '0.1',
 
     # any module necessary for this one to work correctly
-    'depends': ['base', 'point_of_sale', 'index_api_base_online'],
+    'depends': ['base', 'point_of_sale', 'index_api_base'],
 
     # # always loaded
     # 'data': [
