@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "index_api_base",
+    'name': "index_api_base_online",
 
     'summary': """
         Synchronisation de donnée de deux serveur""",
